@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+The Lang-uisable Project
 
-You can use the [editor on GitHub](https://github.com/CognonicLabs/languishable/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A best of breed demo series to show the ideal idiomatic representation of code for many programming languages via a common desktop application in Scala, Go, C#, Python, Java, R, Julia, F#, C++, Ballerina, Rust, JavaScript, TypeScript etc
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are a few projects that compare different programming languages but they tend to either be focused on comparison benchmarking or generic type "rosetta stones" that show small snippets of code in each language.
 
-### Markdown
+The idea here is to use a small but complete program and then struture it in a manner that best shows off the "native" (AKA idiomatic) style of that language.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm thinking perhaps a simple time tracker UI using a common API with a backend coded in a single language.
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+[Scala]()
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+[Go]()
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[C#]()
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CognonicLabs/languishable/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Python]()
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Java]()
+
+---
+
+[R]()
+
+---
+
+[Julia]()
+
+---
+
+[F#]()
+
+---
+
+[C++]()
+
+---
+
+[Ballerina]()
+
+---
+
+[Rust]()
+
+---
+
+[JavaScript]()
+
+
+---
+
+[TypeScript]()
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
